@@ -1,4 +1,4 @@
-name = input(“Enter your name”)
+name = input("Enter your name")
 n =  int(input("enter no .of students marks : "))
 m=[0]*n
 for i in range(n) :
@@ -28,3 +28,4 @@ else :
 
 print("total valid students are :" , totalvalidstudents)
 print("total failed students are:", totalfailstudents)
+
